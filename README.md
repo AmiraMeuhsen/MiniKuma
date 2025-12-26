@@ -23,6 +23,7 @@ Give your Uptime Kuma status page a minimal look with custom CSS only
 </p>
 
 ## RoadMap
+ - [x] ~~Compact view (narrow 1columns list)~~
  - [x] ~~Support UptimeKuma V2 with compatible earlier version~~
  - [ ] Dark mode 
  - [ ] Widget for windows 
