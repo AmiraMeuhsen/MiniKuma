@@ -1,3 +1,11 @@
+/*
+    MiniKuma
+    Version: 1
+    Minimal theme for uptime-kuma status page custom css
+    Best for companies have many servers or need to compact view
+    Test on uptimeKuma Version: 1.23.13
+*/
+
 :root {
   --primary: #0066cc;
   --light-bg: #f8f9fa;
