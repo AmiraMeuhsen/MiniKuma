@@ -30,6 +30,8 @@ Give your Uptime Kuma status page a minimal look with custom CSS only
  - [ ] 4K monitor better responsiveness 
  - [ ] Large server name supports
  - [ ] Order "the down servers" to top of page
+ - [ ] very compact view for small screens like mobile phones
+
 
 ## Installation
 
